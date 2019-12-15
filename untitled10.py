@@ -13,6 +13,8 @@ import string
 import random
 import psycopg2
 
+
+
 token = '901933637:AAGH7XP4UNdKCXyQ_PQSqTSiuk_y_HFAiXY'
 db_name = 'd6drtr5rc6fncf'
 db_user = 'lnqovymyzbtknf'
